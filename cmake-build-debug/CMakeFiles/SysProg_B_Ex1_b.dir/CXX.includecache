@@ -6,9 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/mnt/c/Users/barak/Documents/GitHub/SysProg-B-Ex1-b/mat.cpp
-vector
--
+/mnt/c/Users/barak/Documents/GitHub/SysProg-B-Ex1-b/main.cpp
 iostream
 -
 mat.hpp

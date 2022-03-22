@@ -74,12 +74,12 @@ clean: CMakeFiles/SysProg_B_Ex1_b.dir/clean
 CMakeFiles/SysProg_B_Ex1_b.dir/all:
 	$(MAKE) -f CMakeFiles/SysProg_B_Ex1_b.dir/build.make CMakeFiles/SysProg_B_Ex1_b.dir/depend
 	$(MAKE) -f CMakeFiles/SysProg_B_Ex1_b.dir/build.make CMakeFiles/SysProg_B_Ex1_b.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/c/Users/barak/Documents/GitHub/SysProg-B-Ex1-b/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target SysProg_B_Ex1_b"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/c/Users/barak/Documents/GitHub/SysProg-B-Ex1-b/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target SysProg_B_Ex1_b"
 .PHONY : CMakeFiles/SysProg_B_Ex1_b.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/SysProg_B_Ex1_b.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/barak/Documents/GitHub/SysProg-B-Ex1-b/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/barak/Documents/GitHub/SysProg-B-Ex1-b/cmake-build-debug/CMakeFiles 3
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/SysProg_B_Ex1_b.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/barak/Documents/GitHub/SysProg-B-Ex1-b/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/SysProg_B_Ex1_b.dir/rule

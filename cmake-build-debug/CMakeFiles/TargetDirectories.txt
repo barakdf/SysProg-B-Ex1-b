@@ -1,0 +1,3 @@
+/mnt/c/Users/barak/Documents/GitHub/SysProg-B-Ex1-b/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/barak/Documents/GitHub/SysProg-B-Ex1-b/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/barak/Documents/GitHub/SysProg-B-Ex1-b/cmake-build-debug/CMakeFiles/SysProg_B_Ex1_b.dir

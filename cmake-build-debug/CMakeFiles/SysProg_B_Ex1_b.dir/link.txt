@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SysProg_B_Ex1_b.dir/mat.cpp.o  -o SysProg_B_Ex1_b 

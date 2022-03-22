@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/barak/Documents/GitHub/SysProg-B-Ex1-b/mat.cpp
+vector
+-
+iostream
+-
+mat.hpp
+/mnt/c/Users/barak/Documents/GitHub/SysProg-B-Ex1-b/mat.hpp
+
+/mnt/c/Users/barak/Documents/GitHub/SysProg-B-Ex1-b/mat.hpp
+string
+-
+
